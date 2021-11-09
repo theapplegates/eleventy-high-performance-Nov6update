@@ -6,8 +6,6 @@
 
 [[plugins]]
   package = "@netlify/plugin-functions-install-core"
-  package = "netlify-plugin-search-index"
-
 [[headers]]
   for = "*.avif"
     [headers.values]
