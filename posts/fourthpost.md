@@ -20,3 +20,21 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 ## A sample GIF
 
 ![A sample GIF](https://thumbs.gfycat.com/EqualCreativeCowbird-max-1mb.gif)
+
+
+https://applegate-paul.mo.cloudinary.net/img/Me-Mom.jpg
+
+https://applegate-paul.mo.cloudinary.net/img/photo.jpg
+https://applegate-paul.mo.cloudinary.net/img/picture.jpg
+https://applegate-paul.mo.cloudinary.net/img/Pyramid.jpg
+
+https://applegate-paul.mo.cloudinary.net/img/Santa-Letter.jpg
+
+https://applegate-paul.mo.cloudinary.net/img/side-walking-on-air.jpg
+
+
+
+https://applegate-paul.mo.cloudinary.net/img/ThirdPlace-1.jpg
+
+
+https://applegate-paul.mo.cloudinary.net/img/contract.jpg
