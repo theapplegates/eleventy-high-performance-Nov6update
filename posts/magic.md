@@ -18,4 +18,4 @@ Each time he [tweets](https://twitter.com/mxbck) about something new I quickly j
 That's all I wanted to say. 
 
 
-A test using [Cloudinary's new Media Optimizer](https://applegate-paul.mo.cloudinary.net/img/mxb-makwitwork.jpg)
+A test using ![Cloudinary's new Media Optimizer](https://applegate-paul.mo.cloudinary.net/img/mxb-makwitwork.jpg)
