@@ -22,19 +22,19 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 ![A sample GIF](https://thumbs.gfycat.com/EqualCreativeCowbird-max-1mb.gif)
 
 
-https://applegate-paul.mo.cloudinary.net/img/Me-Mom.jpg
+![Test1](https://applegate-paul.mo.cloudinary.net/img/Me-Mom.jpg)
 
-https://applegate-paul.mo.cloudinary.net/img/photo.jpg
-https://applegate-paul.mo.cloudinary.net/img/picture.jpg
-https://applegate-paul.mo.cloudinary.net/img/Pyramid.jpg
+![Test2](https://applegate-paul.mo.cloudinary.net/img/photo.jpg)
+![test3](https://applegate-paul.mo.cloudinary.net/img/picture.jpg)
+![test4](https://applegate-paul.mo.cloudinary.net/img/Pyramid.jpg)
 
-https://applegate-paul.mo.cloudinary.net/img/Santa-Letter.jpg
+![test5](https://applegate-paul.mo.cloudinary.net/img/Santa-Letter.jpg)
 
-https://applegate-paul.mo.cloudinary.net/img/side-walking-on-air.jpg
-
-
-
-https://applegate-paul.mo.cloudinary.net/img/ThirdPlace-1.jpg
+![test6](https://applegate-paul.mo.cloudinary.net/img/side-walking-on-air.jpg)
 
 
-https://applegate-paul.mo.cloudinary.net/img/contract.jpg
+
+![test7](https://applegate-paul.mo.cloudinary.net/img/ThirdPlace-1.jpg)
+
+
+![test8](https://applegate-paul.mo.cloudinary.net/img/contract.jpg)
