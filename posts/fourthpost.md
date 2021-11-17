@@ -36,3 +36,9 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 
 ![test8](https://applegate-paul.mo.cloudinary.net/img/contract.jpg)
+
+
+
+
+Santa Letter delivered by [Cloudinary's] new media optimizer, aka Mo
+![Letter](https://applegate-paul.mo.cloudinary.net/img/Santa-Letter.jpg)
