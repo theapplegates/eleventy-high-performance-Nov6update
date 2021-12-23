@@ -16,3 +16,8 @@ I've been in awe of Max's [web site](https://mxb.dev) for some time. The way he 
 
 Each time he [tweets](https://twitter.com/mxbck) about something new I quickly jump over to check it out and maybe you should as well. As an example check out his new creation, [Medium](https://medium.com) like text sharing. Copy some text and the share menu appears. Not too bad for a static site. While I am here singing the praises of his development skills you should check out his creation of analytics for [Webmentions](https://indieweb.org/Webmention).
 That's all I wanted to say.
+
+
+A new type of web magic. [Cloudinary's media optimizer](https://cloudinary.com/blog/introducing_cloudinary_media_optimizer_automation_of_quality_and_high_performance_delivery).
+
+![A contract](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/contract.jpg).
