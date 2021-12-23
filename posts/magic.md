@@ -24,10 +24,10 @@ A new type of web magic. [Cloudinary's media optimizer](https://cloudinary.com/b
 
 
 
-![An egg](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/egg.jpg)
+![An egg](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/egg.jpg)
 
-![A snow covered road](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/snow-road.jpg)
+![A snow covered road](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/snow-road.jpg)
 
-![Mercedes front seat](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/mercedes-sl-4meg.jpg)
+![Mercedes front seat](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/mercedes-sl-4meg.jpg)
 
 
