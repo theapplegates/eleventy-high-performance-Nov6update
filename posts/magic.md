@@ -21,3 +21,13 @@ That's all I wanted to say.
 A new type of web magic. [Cloudinary's media optimizer](https://cloudinary.com/blog/introducing_cloudinary_media_optimizer_automation_of_quality_and_high_performance_delivery).
 
 ![A contract](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/contract.jpg).
+
+
+
+![An egg](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/egg.jpg)
+
+![A snow covered road](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/snow-road.jpg)
+
+![Mercedes front seat](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/mercedes-sl-4meg.jpg)
+
+
