@@ -14,4 +14,4 @@ His entry "Side-Walking on Air" is shown below. It was taken by an iPhone X in L
 
 ![Side-Walking on Air](../../img/ThirdPlace-1.jpg)
 
-![test](https://applegate-paul.mo.cloudinary.net/img/ferrari-pista.jpg)
+![test](https://applegate-paul.mo.cloudinary.net/ferrari-pista.jpg)
